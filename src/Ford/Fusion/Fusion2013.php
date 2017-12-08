@@ -1,6 +1,6 @@
 <?php
 
-namespace Ford\Escape;
+namespace Ford\Fusion;
 
 class Fusion2013
 {

@@ -1,8 +1,8 @@
 <?php
 
-namespace Ford\Escape;
+namespace Ford\Focus;
 
-class Fiesta2013
+class Focus2013
 {
     public static function info()
     {
