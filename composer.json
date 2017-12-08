@@ -1,0 +1,23 @@
+{
+    "name": "chionghwa/composer-car",
+    "description": "In order to study composer",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jch",
+            "email": "jiangchunhua@kuaidihelp.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+    	"php": ">=5.3.0"
+    },
+    "autoload": {
+	"psr-4": {
+		"Ford\\Escape\\": "src/Ford/Escape",
+		"Ford\\Fusion\\": "src/Ford/Fusion",
+		"Ford\\Focus\\": "src/Ford/Focus",
+		"Ford\\Fiesta\\": "src/Ford/Fiesta"
+	}
+    }
+}
