@@ -1,11 +1,11 @@
 <?php
 
-namespace Ford\Escape;
+namespace Ford\Fiesta;
 
 class Fiesta2013
 {
     public static function info()
     {
-        echo "This is Ford Fiesta2013! <br />";
+        echo "This is Ford Fiesta2013! <br /> \n";
     }
 }
